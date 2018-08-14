@@ -1,0 +1,18 @@
+albanlinard:
+  name: "Alban Linard"
+  picture: "/images/alban-linard.jpeg"
+  email: alban@linard.fr
+  twitter: "@AlbanLinard"
+  links:
+    - title: GitHub
+      url: https://github.com/saucisson
+      icon: fab fa-github-square
+    - title: StackOverflow
+      url: https://stackoverflow.com/users/162054/alban-linard
+      icon: fab fa-stack-overflow
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/albanlinard/
+      icon: fab fa-linkedin
+    - title: Twitter
+      url: https://twitter.com/AlbanLinard
+      icon: fab fa-twitter-square
