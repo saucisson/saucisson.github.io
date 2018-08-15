@@ -1,10 +1,10 @@
-- title: Home
+- title: Accueil
   url: /
-- title: Posts
+- title: Articles
   url: /posts/
-- title: Categories
+- title: Catégories
   url: /categories/
-- title: Tags
+- title: Mots-clés
   url: /tags/
-- title: Search
+- title: Rechercher...
   url: /search/
